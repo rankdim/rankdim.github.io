@@ -36,11 +36,15 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     })),
     // Component.DesktopOnly(Component.RecentNotes())
-    
+
     // Component.Explorer(),
   ],
   right: [
     // Component.Graph(),
+    Component.ConditionalRender({
+      component: Component.Conway(),
+      condition: (page) => page.fileData.slug == "index",
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     // Component.RecentNotes()
