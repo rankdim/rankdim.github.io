@@ -16,6 +16,7 @@ I am currently exploring **quantization** techniques & formats, faster **inferen
 
 
 #### read recently
+[In the Limit, Only Culture Remains \| Giulio Starace](https://www.giuliostarace.com/posts/in-the-limit-only-culture/)  
 [Can tinygrad win? \| the singularity is nearer](https://geohot.github.io/blog/jekyll/update/2025/07/06/can-tinygrad-win.html)  
 [AGI and the RL lottery](https://evergreen-hoodie-45c.notion.site/AGI-and-the-RL-lottery-1cc4921e2dd580d192a9cb6cc577d6ec)  
 
@@ -28,5 +29,7 @@ I am currently exploring **quantization** techniques & formats, faster **inferen
 https://ggerganov.com/  
 https://timdettmers.com/  
 https://karpathy.ai/ 
+
+
 
 
