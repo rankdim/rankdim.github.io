@@ -14,7 +14,6 @@ I am currently exploring **quantization** techniques & formats, faster **inferen
 [[aidanbench|Notes on AidanBench]]  
 [[sycobench|Can we benchmark model sycophany]]  
 
-
 #### read recently
 [In the Limit, Only Culture Remains \| Giulio Starace](https://www.giuliostarace.com/posts/in-the-limit-only-culture/)  
 [Can tinygrad win? \| the singularity is nearer](https://geohot.github.io/blog/jekyll/update/2025/07/06/can-tinygrad-win.html)  
@@ -24,12 +23,14 @@ I am currently exploring **quantization** techniques & formats, faster **inferen
 ['the void' by nostalgebraist — LessWrong](https://www.lesswrong.com/posts/3EzbtNLdcnZe8og8b/the-void-1)  
 [Hardware Archives — Tim Dettmers](https://timdettmers.com/category/hardware/)  
 
-
 ##### favorites
-https://ggerganov.com/  
-https://timdettmers.com/  
-https://karpathy.ai/ 
+[Georgi Gerganov](https://ggerganov.com/)  
+[Tim Dettmers](https://timdettmers.com/)  
+[Andrej Karpathy](https://karpathy.ai/)
 
-
+##### checkout
+[ccmdi.com](https://ccmdi.com/)  
+[rvns.moe](https://rvns.moe/)  
+[ghost.fail](https://ghost.fail/)  
 
 
